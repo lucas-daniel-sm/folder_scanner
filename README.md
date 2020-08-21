@@ -1,2 +1,2 @@
 # folder_scanner
- scaneia as pastas e retorna a soma do tamanha dos arquivos internos e de subpastas
+ percorre as pastas e subpastas e retorna a soma do tamanho dos arquivos internos da mesma
